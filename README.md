@@ -60,6 +60,8 @@ The filters are integrated in http://cloudpaint.com/photo.
 - OtherOffset
 - EdgeCanny
 
+![filters](index.png "filters")
+
 ### Usage:
 A public sample application is still missing, but once you understand the basic principle integrating the
 filters should be straightforward as they all have common signatures. Feel free to use them in
